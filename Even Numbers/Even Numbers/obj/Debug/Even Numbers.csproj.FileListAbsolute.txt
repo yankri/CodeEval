@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\CodeEval\Even Numbers\Even Numbers\bin\Debug\Even Numbers.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Even Numbers\Even Numbers\bin\Debug\Even Numbers.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Even Numbers\Even Numbers\bin\Debug\Even Numbers.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Even Numbers\Even Numbers\obj\Debug\Even Numbers.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Even Numbers\Even Numbers\obj\Debug\Even Numbers.pdb

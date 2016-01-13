@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\bin\Debug\Course Points.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\bin\Debug\Course Points.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\bin\Debug\Course Points.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\obj\Debug\Course Points.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\obj\Debug\Course Points.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Course Points\Course Points\obj\Debug\Course Points.pdb

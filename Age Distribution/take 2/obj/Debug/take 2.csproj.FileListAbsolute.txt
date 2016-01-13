@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\take 2\bin\Debug\take 2.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\take 2\bin\Debug\take 2.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\take 2\bin\Debug\take 2.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\take 2\obj\Debug\take 2.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\take 2\obj\Debug\take 2.pdb

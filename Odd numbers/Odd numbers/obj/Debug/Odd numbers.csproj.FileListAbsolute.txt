@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\bin\Debug\Odd numbers.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\bin\Debug\Odd numbers.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\bin\Debug\Odd numbers.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\obj\Debug\Odd numbers.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\obj\Debug\Odd numbers.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Odd numbers\Odd numbers\obj\Debug\Odd numbers.pdb

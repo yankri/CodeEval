@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\bin\Debug\Age Distribution.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\obj\Debug\Age Distribution.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\bin\Debug\Age Distribution.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\bin\Debug\Age Distribution.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\obj\Debug\Age Distribution.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Age Distribution\Age Distribution\obj\Debug\Age Distribution.pdb
