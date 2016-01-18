@@ -1,1 +1,5 @@
 C:\Users\WeCanCodeIT\Documents\CodeEval\Sum of Integers from file\Sum of Integers from file\bin\Debug\Sum of Integers from file.exe.config
+C:\Users\WeCanCodeIT\Documents\CodeEval\Sum of Integers from file\Sum of Integers from file\bin\Debug\Sum of Integers from file.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Sum of Integers from file\Sum of Integers from file\bin\Debug\Sum of Integers from file.pdb
+C:\Users\WeCanCodeIT\Documents\CodeEval\Sum of Integers from file\Sum of Integers from file\obj\Debug\Sum of Integers from file.exe
+C:\Users\WeCanCodeIT\Documents\CodeEval\Sum of Integers from file\Sum of Integers from file\obj\Debug\Sum of Integers from file.pdb
